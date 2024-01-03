@@ -1,5 +1,5 @@
 
-@program_id("F1ipperKF9EfD821ZbbYjS319LXYiBmjhzkkf5a26rC")
+@program_id("DgJdsTEVNuxrtYq1ystCprphVz2oQABgnmsTf5yZSMjJ")
 contract hello_world {
     bool private value = true;
 
